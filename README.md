@@ -17,7 +17,7 @@ Bruce Haryali, the chief of AtliQ Motors India wanted to do a detailed market st
 ## Power BI Dashboard
 
 Additionally, an interactive Power BI dashboard was created to analyze makers and states data, providing a comprehensive view of EV Market in India.
-[PowerBi Dashboard Link](https://app.powerbi.com/groups/me/reports/cc9a87d4-d7ad-4a85-8be0-353a1259d7e7/8eb819e645e400ba9909?experience=power-bi)
+[PowerBi Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiOGZmNTE0MDgtMzI3Mi00NzM4LThiY2ItMDY2ZDI1NTIxODA5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 [Link to Presentation](https://youtu.be/fwzu4AY5ihU)
 
